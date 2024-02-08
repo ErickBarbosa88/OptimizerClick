@@ -31,6 +31,11 @@ Isso abrirá a janela do aplicativo. Você pode usar os botões "Desativar Efeit
 
 Contribuições são bem-vindas! Se você encontrar um problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
+## Demonstração
+
+![Demonstração do aplicativo](https://s4.ezgif.com/tmp/ezgif-4-b5c2c44de5.gif)
+
+
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
