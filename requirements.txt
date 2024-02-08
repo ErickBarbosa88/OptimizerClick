@@ -1,0 +1,15 @@
+altgraph==0.17.4
+numpy==1.26.4
+packaging==23.2
+pefile==2023.2.7
+psutil==5.9.8
+pyinstaller==6.3.0
+pyinstaller-hooks-contrib==2024.0
+PyOpenGL==3.1.7
+pyqtgraph==0.13.3
+PySide6==6.6.1
+PySide6-Addons==6.6.1
+PySide6-Essentials==6.6.1
+pywin32-ctypes==0.2.2
+setuptools==69.0.3
+shiboken6==6.6.1
