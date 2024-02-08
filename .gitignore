@@ -1,0 +1,5 @@
+.build/janela/localpycs
+.venv/
+.venv/Include
+.venv/Lib
+.venv/Scripts
